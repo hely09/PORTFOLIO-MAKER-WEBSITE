@@ -103,5 +103,3 @@ http://127.0.0.1:5000/
 
 Hely Vachhani
 GitHub: [https://github.com/hely09](https://github.com/hely09)
-
----
